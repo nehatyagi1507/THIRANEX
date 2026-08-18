@@ -1,0 +1,15 @@
+show_id,type,title,director,country,release_year,rating,duration,listed_in,date_added
+s1,Movie,The Great Adventure,A. Sharma,India,2020,PG-13,120 min,Adventure,2020-05-10
+s2,TV Show,City Stories,R. Mehta,India,2021,TV-14,2 Seasons,Drama,2021-06-15
+s3,Movie,Hidden Truth,,USA,2019,PG,105 min,Documentary,2019-08-20
+s4,Movie,Ocean Wonders,K. Singh,UK,2022,R,98 min,Action,2022-03-12
+s5,TV Show,Campus Life,P. Verma,India,2020,TV-PG,3 Seasons,Comedy,2020-09-01
+s6,Movie,The Last Journey,A. Khan,,2018,PG-13,130 min,Drama,
+s7,TV Show,Tech World,,USA,2023,TV-14,1 Season,Technology,2023-01-20
+s8,Movie,Family Time,S. Gupta,India,2019,PG,110 min,Family,2019-11-05
+s9,Movie,Mystery House,R. Mehta,UK,2021,,95 min,Mystery,2021-07-18
+s10,TV Show,World Kitchen,,France,2022,TV-MA,2 Seasons,Food & Travel,2022-10-02
+s11,Movie,Future Earth,K. Singh,USA,2023,PG-13,145 min,Documentary,2023-04-25
+s12,TV Show,Music Nights,P. Verma,India,2020,TV-PG,4 Seasons,Music,2020-12-10
+s3,Movie,Hidden Truth,,USA,2019,PG,105 min,Documentary,2019-08-20
+s8,Movie,Family Time,S. Gupta,India,2019,PG,110 min,Family,2019-11-05
